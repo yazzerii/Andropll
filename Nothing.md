@@ -1,3 +1,3 @@
 - Console.WriteLine("hy u gitHub community");
-- print("andopl or yasser any way")
+- print("yazzer or yasser any way")
 - Console.log("I <3 gameDev");
